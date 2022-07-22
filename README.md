@@ -12,5 +12,5 @@ Main Paper by Zezhou Cheng, Qingxiong Yang, Bin Sheng: [Deep Colorization](https
 
 ## Some Predicted Results
 
-![Predicted Image 1](Results/predimage1) 
-![Predicted Image 2](Results/predimage11)
+![Predicted Image 1](Results/predimage1.jpg) 
+![Predicted Image 2](Results/predimage11.jpg)
