@@ -12,5 +12,6 @@ Main Paper by Zezhou Cheng, Qingxiong Yang, Bin Sheng: [Deep Colorization](https
 
 ## Some Predicted Results
 
-![Predicted Image 1](Results/predimage1.jpg) 
-![Predicted Image 2](Results/predimage11.jpg)
+<p align=center><img src='Results/predimage1.jpg' alt='Predicted Image 1'> <img src='Results/predimage11.jpg' alt='Predicted Image 2'>
+<img src='Results/predimage14.jpg' alt='Predicted Image 3'></p>
+
