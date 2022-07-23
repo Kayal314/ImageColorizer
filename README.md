@@ -1,6 +1,6 @@
 # Deep Learning Model that Colors Grayscale Images
 
-Main Paper by Zezhou Cheng, Qingxiong Yang, Bin Sheng: [Deep Colorization](https://arxiv.org/abs/1605.00075)
+Paper by Federico Baldassarre, Diego González Morín, Lucas Rodés-Guirao: arXiv:1712.03400 [cs.CV] [Deep Koalarization](https://arxiv.org/abs/1712.03400)
 
 ## Some Predicted Results
 <h4> Test Images </h4>
